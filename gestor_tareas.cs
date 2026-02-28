@@ -82,7 +82,8 @@ class Program
         {
             Console.WriteLine("Número inválido.");
             Console.WriteLine("Texto de Prueba ");
-        }
+             Console.WriteLine("Texto de Prueba 2 ");
+
 
         Console.ReadKey();
     }
